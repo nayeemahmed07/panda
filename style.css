@@ -1,0 +1,24 @@
+
+.main-bdc {
+    background-color: #FEEAE9;
+    padding: 20px 40px;
+    border-radius: 12px;
+}
+
+.main-c {
+    color: #ff136f;
+}
+
+.buy-btn {
+    color: #fff;
+    background-color: #ff136f;
+    padding: 10px 25px;
+    border: none;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.margin-50 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
